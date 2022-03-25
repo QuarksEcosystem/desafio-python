@@ -44,7 +44,6 @@ Siga os seguintes passos para a execução do desafio:
 2. Crie um arquivo **PROJECT.md** com a explicação de como devemos executar o projeto e com o máximo de detalhes possível do que foi feito.
 3. Faça o **commit** no seu **fork** do repositório com os arquivos do programa que você implementou e do **PROJECT.md**.
 4. Faça um **pull-request**.
-5. Após concluir os passos anteriores, preencha este [formulário](https://forms.gle/tWVt3DVKd21HTth89).
 
 ## Dicas
 - Caso você não saiba como trabalhar com o git e fazer um fork, commit ou pull-request, segue algumas video aulas que podem te ajudar:
